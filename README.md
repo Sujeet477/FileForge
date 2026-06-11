@@ -27,7 +27,6 @@ FileForge/
 │
 ├── main.py
 ├── README.md
-└── .gitignore (optional)
 ```
 
 ## How to Run
